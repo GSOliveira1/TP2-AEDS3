@@ -1,6 +1,4 @@
-Nome Completo: Gabriel Souza de Oliveira;
-
-Nome Completo: Ian Carvalho Ramos;
+Trabalho realizado para a disciplina Algoritmos e Estrutura de Dados 3.
 
 Instruções de Compilação e Execução:
 - make para compilar
